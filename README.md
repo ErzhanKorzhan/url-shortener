@@ -1,1 +1,1 @@
-My implementation of a URL shortener (Server)
+My implementation of a URL shortener (REST API)
